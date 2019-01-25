@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &jereyabramson
+  username               : &jeremyabramson
 facebook:
   username               :
   app_id                 :
@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Just a guy who likes setting up 15.9% of a website"
   location         : "Hermosa Beach, CA"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Southern California"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "jeremydabramson"
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -179,10 +179,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
