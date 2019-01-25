@@ -84,8 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Just a guy who likes setting up 15.9% of a website"
   location         : "Hermosa Beach, CA"
-  employer         : "University of S
-  outhern California"
+  employer         : "University of \nSouthern California"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -98,7 +97,7 @@ author:
   foursquare       :
   github           : "jeremyabramson"
   google_plus      :
-  keybase          : "jeremyabramson"
+  #keybase          : "jeremyabramson"
   instagram        :
   lastfm           :
   linkedin         : "jeremydabramson"
